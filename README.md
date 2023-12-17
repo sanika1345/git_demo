@@ -1,2 +1,3 @@
 # git_demo
-My first git project
+My first git repository.
+Author-Sanika Bhalerao
