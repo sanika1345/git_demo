@@ -1,4 +1,5 @@
 # git_demo
 My first git repository.
 <br>
-Author-Sanika Bhalerao
+Author-Sanika (NMIET student)
+
